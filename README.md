@@ -79,6 +79,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Special thanks to the contributors and the open-source community for their valuable resources and support.
 
----
-
-Feel free to adjust any section as needed!
